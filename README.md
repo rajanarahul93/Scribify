@@ -1,10 +1,10 @@
-# TextVerse
+# Scribify
 
-TextVerse is a web application that provides various text manipulation tools to enhance your writing experience. Whether you need to convert text to uppercase or lowercase, remove extra spaces, or capitalize sentences, TextVerse has got you covered.
+Scribify is a web application that provides various text manipulation tools to enhance your writing experience. Whether you need to convert text to uppercase or lowercase, remove extra spaces, or capitalize sentences, Scribify has got you covered.
 
 ## Features
 
-TextVerse offers the following features:
+Scribify offers the following features:
 
 - **Text Conversion**: Convert text between uppercase and lowercase with ease.
 - **Remove Extra Spaces**: Clean up your text by removing unnecessary extra spaces.
@@ -14,16 +14,16 @@ TextVerse offers the following features:
 
 ## Installation
 
-To use TextVerse, simply clone this repository to your local machine:
+To use Scribify, simply clone this repository to your local machine:
 
 ```
-git clone https://github.com/rajanarahul93/TextVerse.git
+git clone https://github.com/rajanarahul93/Scribify.git
 ```
 
 Then, navigate to the project directory and install the dependencies:
 
 ```
-cd TextVerse
+cd Scribify
 npm install
 ```
 
@@ -33,11 +33,11 @@ Once the dependencies are installed, you can start the development server:
 npm start
 ```
 
-TextVerse will be running at `http://localhost:3000`.
+Scribify will be running at `http://localhost:3000`.
 
 ## Technologies Used
 
-TextVerse is built using the following technologies:
+Scribify is built using the following technologies:
 
 - [React](https://reactjs.org/): Frontend framework for building user interfaces.
 - [React Router](https://reactrouter.com/): Library for routing in React applications.

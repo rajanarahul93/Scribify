@@ -34,8 +34,8 @@ function App() {
   return (
     <HashRouter>
       <Navbar
-        title="TextVerse"
-        AboutText="AboutTextVerse"
+        title="Scribify"
+        AboutText="AboutScribify"
         mode={mode}
         togglemode={togglemode}
       />
